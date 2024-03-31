@@ -1,0 +1,52 @@
+Last login: Sat Mar 30 01:22:33 on ttys000
+cd
+~
+❯ cd KetoCalculator
+
+~/KetoCalculator develop*
+❯ ls
+total 112
+ 31 # Xcode↲
+ 31 build/↲
+ 31 *.pbxuser↲
+ 31 !default.pbxuser↲
+ 31 *.mode1v3↲
+ 31 !default.mode1v3↲
+ 31 *.mode2v3↲
+ 31 !default.mode2v3↲
+ 31 *.perspectivev3↲
+ 31 !default.perspectivev3↲
+ 31 xcuserdata↲
+ 30 *.xccheckout↲
+ 29 *.moved-aside↲
+ 28 DerivedData↲
+ 27 *.hmap↲
+ 26 *.ipa↲
+ 25 *.xcuserstate↲
+ 24 ↲
+ 23 # CocoaPod↲
+ 22 Pods/*↲
+ 21 ↲
+ 20 # SwiftLint↲
+ 19 SwiftLint.pkg↲
+ 18 SwiftLintFramework.framework.zip↲
+ 17 benchmark_*↲
+ 16 portable_swiftlint.zip↲
+ 15 swiftlint_linux.zip↲
+ 14 osscheck/↲
+ 13 docs/↲
+ 12 rule_docs/↲
+ 11 ↲
+ 10 # others↲
+  9 *.swp↲
+  8 !.gitkeep↲
+  7 .DS_Store↲
+  6 ↲
+  5 # SwiftFormat↲
+  4 BuildTools/.build↲
+  3 BuildTools/.swiftpm↲
+  2 ↲
+  1 # worktree↲
+  0 git-worktrees/*↲
+ NORMAL  .gitignore       unix | utf-8 | gitignore  100%   42:1
+
